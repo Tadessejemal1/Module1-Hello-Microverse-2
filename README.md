@@ -4,15 +4,13 @@
 # Project Name
 Hello Microverse 
 
-<<<<<<< HEAD
-=======
 This is my first project in Microverse's module one.
 In this project, things like setting up html and css liters, GitHub Actions, and following GitHub flow are covered.
 
->>>>>>> 30aeb97e2616d981586cda95c7cd325ebeab6d8f
-## Built With
 
+## Built With
 - HTML and CSS
+
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
