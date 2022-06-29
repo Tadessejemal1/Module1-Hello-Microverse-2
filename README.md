@@ -3,8 +3,9 @@
 
 # Project Name
 Hello Microverse 
-This is my first project in Microverse's module one.
 
+This is my first project in Microverse's module one.
+In this project, things like setting up html and css liters, GitHub Actions, and following GitHub flow are covered.
 
 ## Built With
 
