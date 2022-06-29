@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tadessejemal1/Module1-Hello-Microverse-2/issues"
   },
-  "homepage": "https://github.com/Tadessejemal1/Module1-Hello-Microverse-2#readme"
+  "homepage": "https://github.com/Tadessejemal1/Module1-Hello-Microverse-2#readme",
+  "devDependencies": {
+    "hint": "^7.0.1"
+  }
 }
