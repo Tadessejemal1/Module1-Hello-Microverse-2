@@ -1,16 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
 
+# Project Name
 > Description the project.
+=======
+# Project Name
+Hello Microverse 
+This is my first project in Microverse's module one.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
+- HTML and CSS
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
@@ -40,17 +41,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 Tadesse J.
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/Tadessejemal1
+- LinkedIn: https://www.linkedin.com/feed/
 
 ## 🤝 Contributing
 
@@ -64,10 +58,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
