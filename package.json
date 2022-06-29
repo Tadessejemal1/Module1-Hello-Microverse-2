@@ -1,0 +1,27 @@
+{
+  "name": "Module1-Hello-Microverse-2",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadessejemal1/Module1-Hello-Microverse-2.git"
+  },
+  "keywords": [],
+  "author": "Tadesse jemal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tadessejemal1/Module1-Hello-Microverse-2/issues"
+  },
+  "homepage": "https://github.com/Tadessejemal1/Module1-Hello-Microverse-2#readme",
+  "devDependencies": {
+    "hint": "^7.0.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
