@@ -2,12 +2,8 @@
 
 
 # Project Name
-> Description the project.
-=======
-# Project Name
 Hello Microverse 
 This is my first project in Microverse's module one.
-
 
 ## Built With
 
