@@ -1,1 +1,1 @@
-"This is should be ignored by git"
+This is should be ignored by git
